@@ -26,7 +26,8 @@ file in the dated meetup directory for details), the markdown in the slide
 decks can be used and viewed in either:
 
 - [Deckset][]
-- [GitPitch][]
+- [Marp][]
+- [GitPitch][] => (discontinued)
 
 ```sh
 git clone git@github.com:rails-oceania/roro.git
@@ -45,3 +46,4 @@ All RORO events are sponsored by [Ruby Australia][] and are run under its
 [Ruby Australia]: http://ruby.org.au
 [issues page]: https://github.com/rails-oceania/roro/issues
 [wiki page]: https://github.com/rails-oceania/roro/wiki
+[Marp]: https://marp.app/#get-started
